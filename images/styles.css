@@ -1,0 +1,74 @@
+* {
+
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 47px 700px 42px 0px
+}
+
+.topoheader {
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 36px;
+    line-height: 24px;
+    color: #17233D;
+    cursor: pointer;
+}
+
+.botao-header {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-left: 36px;
+}
+
+.img-logo {
+    width: 595.18px;
+    height: 500px;
+    left: 121px;
+    top: 246px;
+
+    display: inline-block;
+
+}
+
+.texto-main {
+    display: inline-block;
+
+}
+
+h1 {
+
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    margin: 242px 57px 47px 96px;
+    color: #161A49;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4B505A;
+    margin: 43px 146px 55px 96px;
+}
+
+.botão{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    margin:100px;
+    color: #6FBF44;
+
+}
